@@ -1,4 +1,5 @@
 InfinityCalc
+
 A modern futuristic calculator web application with a sleek UI, smooth animations, and advanced mathematical functionality. Built to provide a fast, responsive, and visually impressive calculation experience inspired by modern operating system designs.
 
 Live Website: https://infinity-calc-on4c-1ep1kidxx-steffin-phps-projects.vercel.app/
