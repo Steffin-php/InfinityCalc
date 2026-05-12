@@ -1,16 +1,46 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+InfinityCalc
+A modern futuristic calculator web application with a sleek UI, smooth animations, and advanced mathematical functionality. Built to provide a fast, responsive, and visually impressive calculation experience inspired by modern operating system designs.
 
-# Run and deploy your AI Studio app
+Live Website: https://infinity-calc-on4c-1ep1kidxx-steffin-phps-projects.vercel.app/
 
-This contains everything you need to run your app locally.
+🚀 Features
 
-View your app in AI Studio: https://ai.studio/apps/95961e73-1a99-4b3f-a47b-239d0625e59a
+* Basic arithmetic operations
+* Scientific calculator functions
+* Responsive modern UI
+* Dark mode design
+* Smooth button animations
+* Keyboard support
+* Real-time calculations
+* Calculation history
+* Mobile-friendly interface
 
-## Run Locally
+🎨 Tech Stack
 
-**Prerequisites:**  Node.js
+* HTML
+* CSS
+* JavaScript
+* (Optional: React & Tailwind CSS)
+
+💡 Project Goal
+
+InfinityCalc was designed to combine functionality with premium UI/UX design, creating a calculator experience that feels modern, fast, and interactive for everyday users.
+
+📱 Responsive Design
+
+Fully optimized for:
+
+* Desktop
+* Tablet
+* Mobile devices
+
+✨ Future Improvements
+
+* Theme customization
+* Voice input calculations
+* AI-powered smart calculations
+* Unit converter
+* Currency converter
 
 
 1. Install dependencies:
